@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+
+##
+## Rails
+##
+gem 'rails', '4.2.1'
+
+
+gem 'jekyll'
